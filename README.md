@@ -6,28 +6,18 @@
 
 ### 👩‍💻 About Me
 - 🎓 CSE Student at ACE College
-- 💻 Love for coding, design, and solving real-world problems
-- 🌱 Currently learning **MERN Stack** and **Machine Learning**
-- ✨ Passionate about open source & team collaboration
+- 💻 I love coding and designing
+- 🌱 Learning MERN Stack & Machine Learning
+- ✨ I enjoy team collaboration & building projects
 
 ---
 
 ### 🧠 Tech Stack
-```bash
-💻 HTML | CSS | JavaScript | React | Node.js | Express | MongoDB | Python | Django
-🛠 Git | GitHub | VS Code | Postman | Figma
-```
+💻 HTML | CSS | JavaScript | React | Node.js | MongoDB  
+🛠 Git | GitHub | Python | Django | VS Code
 
 ---
 
-### 🚀 Goals
-- 🔧 Building: Real-time full-stack apps
-- 🤝 Collaborating: Open source and college projects
-- 📚 Exploring: AI + Web3 + Cloud
-
----
-
-### 🌐 Connect
-📧 Email: shruthishruthi75737@gmail.com  
-🔗 Portfolio (coming soon...)  
-📍 Location: India
+### 📧 Contact
+📩 Email: shruthishruthi75737@gmail.com  
+📍 India
