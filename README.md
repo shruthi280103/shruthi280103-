@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/OpenGPT-Assets/profile-assets/assets/149003491/6553007a-0a8f-49bb-ae15-b8e0a352b5e2" width="100%" />
+  <img src="https://raw.githubusercontent.com/OpenGPT-Assets/profile-assets/main/shruthi-banner-pink.png" width="100%" />
 </p>
 
 ---
@@ -21,4 +21,5 @@
 ### 📧 Contact
 📩 Email: shruthishruthi75737@gmail.com  
 📍 India
+
 
