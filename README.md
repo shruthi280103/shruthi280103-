@@ -1,7 +1,5 @@
-<h1 align="center">🌸 Hello World! I'm <span style="color:#e75480;">Shruthi</span> 🌸</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;Creative+Problem+Solver;Learning+AI+%26+ML;Shruthi280103+on+GitHub!" />
+  <img src="https://raw.githubusercontent.com/OpenGPT-Assets/profile-assets/main/shruthi-banner.png" width="100%" />
 </p>
 
 ---
